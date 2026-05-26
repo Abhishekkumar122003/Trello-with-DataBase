@@ -1,6 +1,6 @@
 const { default: mongoose } = require('mongoose');
 
-mongoose.connect("mongodb+srv://xlrx7841_db_user:A49GeWjqD1MZkHHX@cluster0.2ckkjz6.mongodb.net/trello");
+mongoose.connect("");
 
 // Design Schema
 
